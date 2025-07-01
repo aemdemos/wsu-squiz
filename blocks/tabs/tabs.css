@@ -1,3 +1,4 @@
+
 .tabs .tabs-list {
   display: flex;
   gap: 0.5ch;
@@ -55,4 +56,109 @@
 
 .tabs .tabs-panel[aria-hidden='true'] {
   display: none;
+}
+
+.tabs.tabs4 {
+  margin-top: 0;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #ededed;
+  border-radius: 4px;
+  background: #fff;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Staff navigation bar: no top/bottom padding, perfectly flush with card */
+.tabs.tabs4 .tabs-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0;
+  border: none;
+  background: #fff;
+  font-size: 10px;
+  line-height: 28px;
+  font-weight: normal;
+  height: 28px;
+  min-height: 28px;
+  max-width: 100%;
+  overflow-x: auto;
+  padding: 0 32px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Each nav item: no vertical padding, perfectly centered */
+.tabs.tabs4 .tabs-list button {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  color: #222;
+  font-size: inherit;
+  font-weight: normal;
+  background: none;
+  border: none;
+  height: 28px;
+  line-height: 28px;
+  padding: 0 14px;
+  margin: 0;
+  text-align: left;
+  border-radius: 0;
+  transition: color 0.15s;
+  vertical-align: middle;
+}
+
+/* Vertical divider between items except the first */
+.tabs.tabs4 .tabs-list button + button {
+  border-left: 1px solid #ededed;
+  margin-left: 0;
+}
+
+/* Remove margin/padding from p inside button */
+.tabs.tabs4 .tabs-list button p {
+  margin: 0;
+  padding: 0;
+  line-height: inherit;
+}
+
+/* Active item: red, no background or bold */
+.tabs.tabs4 .tabs-list button[aria-selected='true'] {
+  color: #a10022;
+  font-weight: normal;
+  background: none;
+  border: none;
+  outline: none;
+}
+
+/* Hover/focus: only color and underline */
+.tabs.tabs4 .tabs-list button:hover,
+.tabs.tabs4 .tabs-list button:focus {
+  color: #a10022;
+  background: none;
+  outline: none;
+  text-decoration: underline;
+}
+
+/* Remove bullets and left padding from the content list below */
+.tabs.tabs4 .tabs-panel ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.4em 0 0.25em;
+}
+
+/* Tighten the gap between nav bar and panel content */
+.tabs.tabs4 .tabs-panel {
+  padding: 20px 32px 32px;
+  border: none;
+  background: #fff;
+  box-sizing: border-box;
+}
+
+/* Remove border from inner divs that may have it */
+.tabs.tabs4 > div {
+  border: none;
 }
