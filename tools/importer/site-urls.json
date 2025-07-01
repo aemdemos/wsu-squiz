@@ -8,10 +8,40 @@
       "id": "e9cd43be199ad42b036a72043010991b72acbd07"
     },
     {
+      "url": "https://www.westernsydney.edu.au/newscentre/news_centre/feature_story/students_welcomed_with_a_new_start,_opportunity_for_a_brighter_future_thanks_to_support_program",
+      "source": "MANUAL",
+      "targetPath": "/newscentre/news-centre/feature-story/students-welcomed-with-a-new-start-opportunity-for-a-brighter-future-thanks-to-support-program",
+      "id": "ddc1105c83cb81f6e15ca99cad75234a2d10dd07"
+    },
+    {
+      "url": "https://www.westernsydney.edu.au/nicm",
+      "source": "MANUAL",
+      "targetPath": "/nicm",
+      "id": "1aff6a19f5b206e31061897d8066202f23871fc2"
+    },
+    {
+      "url": "https://www.westernsydney.edu.au/nicm/health_information/therapeutic_outlines",
+      "source": "MANUAL",
+      "targetPath": "/nicm/health-information/therapeutic-outlines",
+      "id": "3533ee04502027afdc168152d62917d9ccb7f0a8"
+    },
+    {
+      "url": "https://www.westernsydney.edu.au/schools/sobus/people/listing",
+      "source": "MANUAL",
+      "targetPath": "/schools/sobus/people/listing",
+      "id": "3536c8e56131ebe076670d1f973e606505806e4b"
+    },
+    {
       "url": "https://www.westernsydney.edu.au/whs",
       "source": "MANUAL",
       "targetPath": "/whs",
       "id": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2"
+    },
+    {
+      "url": "https://www.westernsydney.edu.au/whs/whs/health_and_wellbeing/employee_assistance_program",
+      "source": "MANUAL",
+      "targetPath": "/whs/whs/health-and-wellbeing/employee-assistance-program",
+      "id": "4bc6e34b1d54fef975a2490724478ac3e68d9dc2"
     }
   ],
   "crawlOptions": {
