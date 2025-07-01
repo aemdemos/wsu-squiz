@@ -11,11 +11,19 @@
  */
 /* global WebImporter */
 /* eslint-disable no-console */
-import tabs4Parser from './parsers/tabs4.js';
-import columns6Parser from './parsers/columns6.js';
-import columns5Parser from './parsers/columns5.js';
-import tabs1Parser from './parsers/tabs1.js';
-import cards2Parser from './parsers/cards2.js';
+import accordion5Parser from './parsers/accordion5.js';
+import cardsNoImages11Parser from './parsers/cardsNoImages11.js';
+import cards6Parser from './parsers/cards6.js';
+import columns17Parser from './parsers/columns17.js';
+import cards12Parser from './parsers/cards12.js';
+import embedVideo14Parser from './parsers/embedVideo14.js';
+import columns18Parser from './parsers/columns18.js';
+import columns7Parser from './parsers/columns7.js';
+import columns2Parser from './parsers/columns2.js';
+import hero10Parser from './parsers/hero10.js';
+import tabs15Parser from './parsers/tabs15.js';
+import columns4Parser from './parsers/columns4.js';
+import columns3Parser from './parsers/columns3.js';
 import headerParser from './parsers/header.js';
 import metadataParser from './parsers/metadata.js';
 import cleanupTransformer from './transformers/cleanup.js';
@@ -32,11 +40,19 @@ import {
 
 const parsers = {
   metadata: metadataParser,
-  tabs4: tabs4Parser,
-  columns6: columns6Parser,
-  columns5: columns5Parser,
-  tabs1: tabs1Parser,
-  cards2: cards2Parser,
+  accordion5: accordion5Parser,
+  cardsNoImages11: cardsNoImages11Parser,
+  cards6: cards6Parser,
+  columns17: columns17Parser,
+  cards12: cards12Parser,
+  embedVideo14: embedVideo14Parser,
+  columns18: columns18Parser,
+  columns7: columns7Parser,
+  columns2: columns2Parser,
+  hero10: hero10Parser,
+  tabs15: tabs15Parser,
+  columns4: columns4Parser,
+  columns3: columns3Parser,
   ...customParsers,
 };
 
