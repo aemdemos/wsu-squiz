@@ -1,0 +1,23 @@
+{
+  "originUrl": "https://www.westernsydney.edu.au",
+  "urls": [
+    {
+      "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+      "source": "MANUAL",
+      "targetPath": "/newscentre/news-centre",
+      "id": "e9cd43be199ad42b036a72043010991b72acbd07"
+    },
+    {
+      "url": "https://www.westernsydney.edu.au/whs",
+      "source": "MANUAL",
+      "targetPath": "/whs",
+      "id": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2"
+    }
+  ],
+  "crawlOptions": {
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  }
+}
