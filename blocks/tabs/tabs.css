@@ -1,3 +1,4 @@
+/* === BASE TABS STYLES === */
 
 .tabs .tabs-list {
   display: flex;
@@ -40,7 +41,6 @@
   margin: 0;
 }
 
-
 .tabs .tabs-list button[aria-selected='true'] {
   border-bottom: 1px solid var(--background-color);
   background-color: var(--background-color);
@@ -58,83 +58,96 @@
   display: none;
 }
 
+/* === TABS4 OVERRIDES, DEDUPLICATED AND ORDERED === */
+
 .tabs.tabs4 {
-  margin-top: 0;
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  border: 1px solid #ededed;
-  border-radius: 4px;
   background: #fff;
   padding: 0;
   box-sizing: border-box;
+  border: none;
+  border-radius: 0;
+  max-width: 100%;
+  font-family: var(--body-font-family);
 }
 
-/* Staff navigation bar: no top/bottom padding, perfectly flush with card */
+.tabs.tabs4 .tabs-list,
+.tabs.tabs4 .tabs-panel {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 0;
+  margin-right: 0;
+  box-sizing: border-box;
+  width: 100%;
+}
+
 .tabs.tabs4 .tabs-list {
   display: flex;
   flex-direction: row;
   align-items: center;
+  align-items: stretch;
+  justify-content: flex-start;
   gap: 0;
   border: none;
   background: #fff;
-  font-size: 10px;
-  line-height: 28px;
-  font-weight: normal;
-  height: 28px;
-  min-height: 28px;
+  font-size: 16px;
+  line-height: 48px;
+  font-weight: 700;
+  height: 48px;
+  min-height: 48px;
   max-width: 100%;
   overflow-x: auto;
   padding: 0 32px;
   margin: 0;
-  box-sizing: border-box;
 }
 
-/* Each nav item: no vertical padding, perfectly centered */
 .tabs.tabs4 .tabs-list button {
   all: unset;
   box-sizing: border-box;
   display: flex;
   align-items: center;
+  justify-content: flex-start;
+  flex: 0 0 auto;
+  min-width: 0;
   cursor: pointer;
   color: #222;
   font-size: inherit;
-  font-weight: normal;
+  font-weight: 700;
   background: none;
   border: none;
-  height: 28px;
-  line-height: 28px;
+  height: 48px;
+  line-height: 48px;
   padding: 0 14px;
   margin: 0;
-  text-align: left;
+  text-align: center;
   border-radius: 0;
-  transition: color 0.15s;
   vertical-align: middle;
+  transition: color 0.15s, background 0.15s;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
-/* Vertical divider between items except the first */
 .tabs.tabs4 .tabs-list button + button {
   border-left: 1px solid #ededed;
   margin-left: 0;
+  height: 100%;
+  align-self: stretch;
 }
 
-/* Remove margin/padding from p inside button */
 .tabs.tabs4 .tabs-list button p {
+  display: inline;
   margin: 0;
   padding: 0;
   line-height: inherit;
 }
 
-/* Active item: red, no background or bold */
 .tabs.tabs4 .tabs-list button[aria-selected='true'] {
   color: #a10022;
-  font-weight: normal;
+  font-weight: 700;
   background: none;
   border: none;
   outline: none;
 }
 
-/* Hover/focus: only color and underline */
 .tabs.tabs4 .tabs-list button:hover,
 .tabs.tabs4 .tabs-list button:focus {
   color: #a10022;
@@ -143,22 +156,51 @@
   text-decoration: underline;
 }
 
-/* Remove bullets and left padding from the content list below */
-.tabs.tabs4 .tabs-panel ul {
-  list-style: none;
-  padding-left: 0;
-  margin: 0.4em 0 0.25em;
-}
-
-/* Tighten the gap between nav bar and panel content */
 .tabs.tabs4 .tabs-panel {
   padding: 20px 32px 32px;
   border: none;
   background: #fff;
+  font-size: 15px;
+  color: #222;
+  width: 100%;
   box-sizing: border-box;
 }
 
-/* Remove border from inner divs that may have it */
+.tabs.tabs4 .tabs-panel ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.2em 0 0;
+}
+
+.tabs.tabs4 .tabs-panel li {
+  margin-bottom: 0;
+  padding-bottom: 1px;
+  border-bottom: 1px solid #ededed;
+}
+
+.tabs.tabs4 .tabs-panel a {
+  color: #222;
+  font-weight: 400;
+  text-decoration: none;
+  transition: color 0.15s, text-decoration 0.15s;
+}
+
+.tabs.tabs4 .tabs-panel li:first-child a {
+  color: #A6192E;
+  font-weight: 700;
+}
+
+.tabs.tabs4 .tabs-panel a:hover,
+.tabs.tabs4 .tabs-panel a:focus {
+  color: #A6192E;
+  text-decoration: underline;
+}
+
+.tabs.tabs4 .tabs-panel li:last-child {
+  border-bottom: none;
+}
+
 .tabs.tabs4 > div {
   border: none;
+  padding: 0;
 }
