@@ -1,0 +1,158 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-00-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-00-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Tabs",
+      "cluster": 1,
+      "source": "Tabs",
+      "target": "Tabs (tabs1)",
+      "key": "tabs1",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-01-e64c424f22094b504080c6cad6b0e4a10f44e2e2",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-03-498364ef14c935f9c96f5b77bf59e881a86cc8f7",
+          "xpath": "/html[1]/body[1]/div[5]/div[4]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 3,
+      "source": "Header",
+      "target": "Header",
+      "key": "header3",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-00-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-00-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 4,
+      "source": "Tabs",
+      "target": "Tabs (tabs4)",
+      "key": "tabs4",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-01-e64c424f22094b504080c6cad6b0e4a10f44e2e2",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-03-498364ef14c935f9c96f5b77bf59e881a86cc8f7",
+          "xpath": "/html[1]/body[1]/div[5]/div[4]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.westernsydney.edu.au/whs",
+      "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+      "uuid": "7ee425b2-02-0cce62d21f9d401724a667b4bc3ca4238efe5f94",
+      "xpath": "/html[1]/body[1]/div[5]/div[4]/div[1]"
+    },
+    {
+      "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+      "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+      "uuid": "e9cd43be-02-0cce62d21f9d401724a667b4bc3ca4238efe5f94",
+      "xpath": "/html[1]/body[1]/div[5]/div[4]/div[1]"
+    }
+  ]
+}
