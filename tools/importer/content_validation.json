@@ -1,0 +1,3163 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-00-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]",
+          "differences": [
+            {
+              "change_type": "deletion",
+              "text": "Skip to content If you have problems accessing content on the Western Sydney University website, please contact the Western Sydney University Student Services Hub on 1300 668 370. Show more links Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs for Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Library vUWS Staff Directory Contact Ask Western Sign into... Staff Staff Directory Staff Online Staff Email Password Management WesternNow Staff Portal IT Website IT Portal ResearchMaster Citrix Access Student Management System eRecruit Exam Timetable Class Registration Oracle Financials Casual Room Bookings Staff Profile Editor Vehicle Bookings Form Centre TEMS Yammer WSU SharePoint Portal Learning Guide Management System (LGMS) Zoom Basware Students My Library vUWS MyWestern Student Email Password Management My Student Records (MySR) IT Portal ResearchMaster WesternLife CareerHub WesternNow Student Portal Class Registration My Exam Timetable Student Forms (eForms) Accept My Offer Payments AskWestern FACEBOOK youtube Twiiter instagram linkedin Print this page smaller text A smaller text A smaller text A "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Site"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Skip"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Courses"
+            },
+            {
+              "change_type": "insertion",
+              "text": "to"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "If"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "you"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "have"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "problems"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "accessing"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "on"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "1"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Menu"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Study"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "with"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Us"
+            },
+            {
+              "change_type": "insertion",
+              "text": "website, please"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research"
+            },
+            {
+              "change_type": "insertion",
+              "text": "contact"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Students"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "International"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Alumni"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Student"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "2"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Services Hub on 1300 668 370. Show more"
+            },
+            {
+              "change_type": "equal",
+              "text": " links "
+            },
+            {
+              "change_type": "insertion",
+              "text": "Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs "
+            },
+            {
+              "change_type": "equal",
+              "text": "for"
+            },
+            {
+              "change_type": "deletion",
+              "text": ": "
+            },
+            {
+              "change_type": "insertion",
+              "text": " Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Search Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Working with us"
+            },
+            {
+              "change_type": "insertion",
+              "text": " Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Aboriginal and Torres Strait Islander Employment and Engagement Applying for leave Complaints Unit Employee Assistance Program Flexible work options Forms and Templates Probation Staff Giving Staff Online Travel Bookings UWS Celebrates 25 years Enterprise Agreements Work Health and Safety Working with children"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Career Development"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Development Program Academic Promotion Career Development Opportunities Compass Program Learning and Teaching Vice-Chancellor's Excellence Awards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Salary and Benefits "
+            },
+            {
+              "change_type": "equal",
+              "text": "Casual Salary Deadlines Education Support Allowance and study leave Forms and templates Salary rates and schedules Salary Sacrifice Staff Benefits Staff Social Club Superannuation Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Manager/Supervisor Toolkit"
+            },
+            {
+              "change_type": "equal",
+              "text": " Courses and training programs Employee Assistance Program (EAP) eRecruit Hiring casual employees Induction and orientation Information and checklists for when staff leave Mediation services Recruiting staff at Western Work Health and Safety Policies Thank You e-cards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "New Staff "
+            },
+            {
+              "change_type": "equal",
+              "text": "Forms and Templates IT Checklist WesternAccount Office of Human Resources Induction and orientation Parking Staff Helpline Staff Social Club Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Future Staff"
+            },
+            {
+              "change_type": "equal",
+              "text": " About Western Sydney University Aboriginal and Torres Strait Islander Employment and Engagement Campuses University Employment Contact Employment Current Vacancies Equity and Diversity Institutes and Centres International Applicants Schools Staff Benefits"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Teaching"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Calendar Careers Casual Room Bookings Handbook Indigenous Education Learning Futures Submit Publication HERDC Timetable "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research "
+            },
+            {
+              "change_type": "equal",
+              "text": "Confluence Nexus Institutes and Centres Research Development Support Research Funding Research Services Schools"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Casual Room Bookings Catering Disability Service (staff login required) Division of Infrastructure and Commercial Financials Monthly Reporting (staff login required) IT Service Desk Library Mental Health Support Parking Print Services Records and Archives Management Services Safety and Security Service Unlimited Student Communications Student Administration Travel Video Production Web Services Unit Health and Safety Health and Safety Safety management system Working from Home WHS consultation Risk management Committee Minutes Emergency management Health and safety topics Contractor management Report an Incident (including injury) or Hazard Workplace Reasonable Adjustment Health and Wellbeing About the Safety Team Contact us WHS&W Information about COVID-19 Health and Safety The Work Health Safety and Wellbeing (WHS&W) Unit aims to provide quality health safety and wellbeing services and programs for Western Sydney University. Report an Incident Health and Wellbeing Health & Safety Topics Remote Working Arrangements Request Employee Assistance Program Request an Ergonomic Assessment First Aid"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Mobile options: Return to standard site Back to Top International Students Launch your career at UWS"
+            },
+            {
+              "change_type": "equal",
+              "text": " Home Staff Indigenous Giving Courses University Life New to Uni About Careers Our Campuses Business and Community Schools Institutes Sustainability Study with Us Courses Undergraduate Postgraduate HDR Research Pathways Student Life Scholarships Events Why Western The Academy Western Sydney University Online Students Misconduct Rule Study with Integrity New to Uni Enrolment Fees Forms Exams Results Student Completions Student Support Services and Facilities Staff Working with us Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services Research Events Researchers Future Students Current Students Community and Industry CRCs Institutes Centres Groups Alumni Alumni Awards Alumni Spotlight Alumni Benefits Alumni Affinity Groups Alumni Publications Alumni Giving GradLife Social Links Youtube Twitter Facebook Print this page Contact Us Emergency Help Right to Information Copyright Privacy Disclaimer Complaints Unit Accessibility Website Feedback Compliance Program Admissions Transparency Western Sydney University Copyright \u00a9 2004-2025 ABN 53 014 069 881 CRICOS Provider No: 00917K TEQSA Provider ID: PRV12061 (Australian University) Locked Bag 1797 Penrith NSW 2751 Tel: 1300 668 370 Page updated Thu May 08 2025"
+            }
+          ],
+          "similarity_score": 0.9929124091538822
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-00-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]",
+          "differences": [
+            {
+              "change_type": "deletion",
+              "text": "Skip to content If you have problems accessing content on the Western Sydney University website, please contact the Western Sydney University Student Services Hub on 1300 668 370. Show more links Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs for Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Library vUWS Staff Directory Contact Ask Western Sign into... Staff Staff Directory Staff Online Staff Email Password Management WesternNow Staff Portal IT Website IT Portal ResearchMaster Citrix Access Student Management System eRecruit Exam Timetable Class Registration Oracle Financials Casual Room Bookings Staff Profile Editor Vehicle Bookings Form Centre TEMS Yammer WSU SharePoint Portal Learning Guide Management System (LGMS) Zoom Basware Students My Library vUWS MyWestern Student Email Password Management My Student Records (MySR) IT Portal ResearchMaster WesternLife CareerHub WesternNow Student Portal Class Registration My Exam Timetable Student Forms (eForms) Accept My Offer Payments AskWestern FACEBOOK youtube Twiiter instagram linkedin Print this page smaller text A smaller text A smaller text A "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Site"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Skip"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Courses"
+            },
+            {
+              "change_type": "insertion",
+              "text": "to"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "If"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "you"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "have"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "problems"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "accessing"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "on"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "1"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Menu"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Study"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "with"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Us"
+            },
+            {
+              "change_type": "insertion",
+              "text": "website, please"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research"
+            },
+            {
+              "change_type": "insertion",
+              "text": "contact"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Students"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "International"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Alumni"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Student"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "2"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Services Hub on 1300 668 370. Show more"
+            },
+            {
+              "change_type": "equal",
+              "text": " links "
+            },
+            {
+              "change_type": "insertion",
+              "text": "Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs "
+            },
+            {
+              "change_type": "equal",
+              "text": "for"
+            },
+            {
+              "change_type": "deletion",
+              "text": ": "
+            },
+            {
+              "change_type": "insertion",
+              "text": " Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Search Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Working with us"
+            },
+            {
+              "change_type": "insertion",
+              "text": " Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Aboriginal and Torres Strait Islander Employment and Engagement Applying for leave Complaints Unit Employee Assistance Program Flexible work options Forms and Templates Probation Staff Giving Staff Online Travel Bookings UWS Celebrates 25 years Enterprise Agreements Work Health and Safety Working with children"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Career Development"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Development Program Academic Promotion Career Development Opportunities Compass Program Learning and Teaching Vice-Chancellor's Excellence Awards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Salary and Benefits "
+            },
+            {
+              "change_type": "equal",
+              "text": "Casual Salary Deadlines Education Support Allowance and study leave Forms and templates Salary rates and schedules Salary Sacrifice Staff Benefits Staff Social Club Superannuation Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Manager/Supervisor Toolkit"
+            },
+            {
+              "change_type": "equal",
+              "text": " Courses and training programs Employee Assistance Program (EAP) eRecruit Hiring casual employees Induction and orientation Information and checklists for when staff leave Mediation services Recruiting staff at Western Work Health and Safety Policies Thank You e-cards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "New Staff "
+            },
+            {
+              "change_type": "equal",
+              "text": "Forms and Templates IT Checklist WesternAccount Office of Human Resources Induction and orientation Parking Staff Helpline Staff Social Club Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Future Staff"
+            },
+            {
+              "change_type": "equal",
+              "text": " About Western Sydney University Aboriginal and Torres Strait Islander Employment and Engagement Campuses University Employment Contact Employment Current Vacancies Equity and Diversity Institutes and Centres International Applicants Schools Staff Benefits"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Teaching"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Calendar Careers Casual Room Bookings Handbook Indigenous Education Learning Futures Submit Publication HERDC Timetable "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research "
+            },
+            {
+              "change_type": "equal",
+              "text": "Confluence Nexus Institutes and Centres Research Development Support Research Funding Research Services Schools"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Casual Room Bookings Catering Disability Service (staff login required) Division of Infrastructure and Commercial Financials Monthly Reporting (staff login required) IT Service Desk Library Mental Health Support Parking Print Services Records and Archives Management Services Safety and Security Service Unlimited Student Communications Student Administration Travel Video Production Web Services Unit Health and Safety Health and Safety Safety management system Working from Home WHS consultation Risk management Committee Minutes Emergency management Health and safety topics Contractor management Report an Incident (including injury) or Hazard Workplace Reasonable Adjustment Health and Wellbeing About the Safety Team Contact us WHS&W Information about COVID-19 Health and Safety The Work Health Safety and Wellbeing (WHS&W) Unit aims to provide quality health safety and wellbeing services and programs for Western Sydney University. Report an Incident Health and Wellbeing Health & Safety Topics Remote Working Arrangements Request Employee Assistance Program Request an Ergonomic Assessment First Aid"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Mobile options: Return to standard site Back to Top International Students Launch your career at UWS"
+            },
+            {
+              "change_type": "equal",
+              "text": " Home Staff Indigenous Giving Courses University Life New to Uni About Careers Our Campuses Business and Community Schools Institutes Sustainability Study with Us Courses Undergraduate Postgraduate HDR Research Pathways Student Life Scholarships Events Why Western The Academy Western Sydney University Online Students Misconduct Rule Study with Integrity New to Uni Enrolment Fees Forms Exams Results Student Completions Student Support Services and Facilities Staff Working with us Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services Research Events Researchers Future Students Current Students Community and Industry CRCs Institutes Centres Groups Alumni Alumni Awards Alumni Spotlight Alumni Benefits Alumni Affinity Groups Alumni Publications Alumni Giving GradLife Social Links Youtube Twitter Facebook Print this page Contact Us Emergency Help Right to Information Copyright Privacy Disclaimer Complaints Unit Accessibility Website Feedback Compliance Program Admissions Transparency Western Sydney University Copyright \u00a9 2004-2025 ABN 53 014 069 881 CRICOS Provider No: 00917K TEQSA Provider ID: PRV12061 (Australian University) Locked Bag 1797 Penrith NSW 2751 Tel: 1300 668 370 Page updated Thu May 08 2025"
+            }
+          ],
+          "similarity_score": 0.9929124091538822
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Tabs",
+      "cluster": 1,
+      "source": "Tabs",
+      "target": "Tabs (tabs1)",
+      "key": "tabs1",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-01-e64c424f22094b504080c6cad6b0e4a10f44e2e2",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-03-498364ef14c935f9c96f5b77bf59e881a86cc8f7",
+          "xpath": "/html[1]/body[1]/div[5]/div[4]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 3,
+      "source": "Header",
+      "target": "Header",
+      "key": "header3",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-00-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]",
+          "differences": [
+            {
+              "change_type": "deletion",
+              "text": "Skip to content If you have problems accessing content on the Western Sydney University website, please contact the Western Sydney University Student Services Hub on 1300 668 370. Show more links Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs for Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Library vUWS Staff Directory Contact Ask Western Sign into... Staff Staff Directory Staff Online Staff Email Password Management WesternNow Staff Portal IT Website IT Portal ResearchMaster Citrix Access Student Management System eRecruit Exam Timetable Class Registration Oracle Financials Casual Room Bookings Staff Profile Editor Vehicle Bookings Form Centre TEMS Yammer WSU SharePoint Portal Learning Guide Management System (LGMS) Zoom Basware Students My Library vUWS MyWestern Student Email Password Management My Student Records (MySR) IT Portal ResearchMaster WesternLife CareerHub WesternNow Student Portal Class Registration My Exam Timetable Student Forms (eForms) Accept My Offer Payments AskWestern FACEBOOK youtube Twiiter instagram linkedin Print this page smaller text A smaller text A smaller text A "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Site"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Skip"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Courses"
+            },
+            {
+              "change_type": "insertion",
+              "text": "to"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "If"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "you"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "have"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "problems"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "accessing"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "on"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "1"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Menu"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Study"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "with"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Us"
+            },
+            {
+              "change_type": "insertion",
+              "text": "website, please"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research"
+            },
+            {
+              "change_type": "insertion",
+              "text": "contact"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Students"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "International"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Alumni"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Student"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "2"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Services Hub on 1300 668 370. Show more"
+            },
+            {
+              "change_type": "equal",
+              "text": " links "
+            },
+            {
+              "change_type": "insertion",
+              "text": "Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs "
+            },
+            {
+              "change_type": "equal",
+              "text": "for"
+            },
+            {
+              "change_type": "deletion",
+              "text": ": "
+            },
+            {
+              "change_type": "insertion",
+              "text": " Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Search Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Working with us"
+            },
+            {
+              "change_type": "insertion",
+              "text": " Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Aboriginal and Torres Strait Islander Employment and Engagement Applying for leave Complaints Unit Employee Assistance Program Flexible work options Forms and Templates Probation Staff Giving Staff Online Travel Bookings UWS Celebrates 25 years Enterprise Agreements Work Health and Safety Working with children"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Career Development"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Development Program Academic Promotion Career Development Opportunities Compass Program Learning and Teaching Vice-Chancellor's Excellence Awards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Salary and Benefits "
+            },
+            {
+              "change_type": "equal",
+              "text": "Casual Salary Deadlines Education Support Allowance and study leave Forms and templates Salary rates and schedules Salary Sacrifice Staff Benefits Staff Social Club Superannuation Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Manager/Supervisor Toolkit"
+            },
+            {
+              "change_type": "equal",
+              "text": " Courses and training programs Employee Assistance Program (EAP) eRecruit Hiring casual employees Induction and orientation Information and checklists for when staff leave Mediation services Recruiting staff at Western Work Health and Safety Policies Thank You e-cards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "New Staff "
+            },
+            {
+              "change_type": "equal",
+              "text": "Forms and Templates IT Checklist WesternAccount Office of Human Resources Induction and orientation Parking Staff Helpline Staff Social Club Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Future Staff"
+            },
+            {
+              "change_type": "equal",
+              "text": " About Western Sydney University Aboriginal and Torres Strait Islander Employment and Engagement Campuses University Employment Contact Employment Current Vacancies Equity and Diversity Institutes and Centres International Applicants Schools Staff Benefits"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Teaching"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Calendar Careers Casual Room Bookings Handbook Indigenous Education Learning Futures Submit Publication HERDC Timetable "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research "
+            },
+            {
+              "change_type": "equal",
+              "text": "Confluence Nexus Institutes and Centres Research Development Support Research Funding Research Services Schools"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Casual Room Bookings Catering Disability Service (staff login required) Division of Infrastructure and Commercial Financials Monthly Reporting (staff login required) IT Service Desk Library Mental Health Support Parking Print Services Records and Archives Management Services Safety and Security Service Unlimited Student Communications Student Administration Travel Video Production Web Services Unit Health and Safety Health and Safety Safety management system Working from Home WHS consultation Risk management Committee Minutes Emergency management Health and safety topics Contractor management Report an Incident (including injury) or Hazard Workplace Reasonable Adjustment Health and Wellbeing About the Safety Team Contact us WHS&W Information about COVID-19 Health and Safety The Work Health Safety and Wellbeing (WHS&W) Unit aims to provide quality health safety and wellbeing services and programs for Western Sydney University. Report an Incident Health and Wellbeing Health & Safety Topics Remote Working Arrangements Request Employee Assistance Program Request an Ergonomic Assessment First Aid"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Mobile options: Return to standard site Back to Top International Students Launch your career at UWS"
+            },
+            {
+              "change_type": "equal",
+              "text": " Home Staff Indigenous Giving Courses University Life New to Uni About Careers Our Campuses Business and Community Schools Institutes Sustainability Study with Us Courses Undergraduate Postgraduate HDR Research Pathways Student Life Scholarships Events Why Western The Academy Western Sydney University Online Students Misconduct Rule Study with Integrity New to Uni Enrolment Fees Forms Exams Results Student Completions Student Support Services and Facilities Staff Working with us Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services Research Events Researchers Future Students Current Students Community and Industry CRCs Institutes Centres Groups Alumni Alumni Awards Alumni Spotlight Alumni Benefits Alumni Affinity Groups Alumni Publications Alumni Giving GradLife Social Links Youtube Twitter Facebook Print this page Contact Us Emergency Help Right to Information Copyright Privacy Disclaimer Complaints Unit Accessibility Website Feedback Compliance Program Admissions Transparency Western Sydney University Copyright \u00a9 2004-2025 ABN 53 014 069 881 CRICOS Provider No: 00917K TEQSA Provider ID: PRV12061 (Australian University) Locked Bag 1797 Penrith NSW 2751 Tel: 1300 668 370 Page updated Thu May 08 2025"
+            }
+          ],
+          "similarity_score": 0.9929124091538822
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-00-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 4,
+      "source": "Tabs",
+      "target": "Tabs (tabs4)",
+      "key": "tabs4",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-01-e64c424f22094b504080c6cad6b0e4a10f44e2e2",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]",
+          "differences": [
+            {
+              "change_type": "deletion",
+              "text": "Skip to content If you have problems accessing content on the Western Sydney University website, please contact the Western Sydney University Student Services Hub on 1300 668 370. Show more links Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs for Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Library vUWS Staff Directory Contact Ask Western Sign into... Staff Staff Directory Staff Online Staff Email Password Management WesternNow Staff Portal IT Website IT Portal ResearchMaster Citrix Access Student Management System eRecruit Exam Timetable Class Registration Oracle Financials Casual Room Bookings Staff Profile Editor Vehicle Bookings Form Centre TEMS Yammer WSU SharePoint Portal Learning Guide Management System (LGMS) Zoom Basware Students My Library vUWS MyWestern Student Email Password Management My Student Records (MySR) IT Portal ResearchMaster WesternLife CareerHub WesternNow Student Portal Class Registration My Exam Timetable Student Forms (eForms) Accept My Offer Payments AskWestern FACEBOOK youtube Twiiter instagram linkedin Print this page smaller text A smaller text A smaller text A "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Site"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Skip"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Courses"
+            },
+            {
+              "change_type": "insertion",
+              "text": "to"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "If"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "you"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "have"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "problems"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "accessing"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "on"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "1"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Menu"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Study"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "with"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Us"
+            },
+            {
+              "change_type": "insertion",
+              "text": "website, please"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research"
+            },
+            {
+              "change_type": "insertion",
+              "text": "contact"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Students"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "International"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Alumni"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Student"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "2"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Services Hub on 1300 668 370. Show more"
+            },
+            {
+              "change_type": "equal",
+              "text": " links "
+            },
+            {
+              "change_type": "insertion",
+              "text": "Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs "
+            },
+            {
+              "change_type": "equal",
+              "text": "for"
+            },
+            {
+              "change_type": "deletion",
+              "text": ": "
+            },
+            {
+              "change_type": "insertion",
+              "text": " Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Search Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Working with us"
+            },
+            {
+              "change_type": "insertion",
+              "text": " Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Aboriginal and Torres Strait Islander Employment and Engagement Applying for leave Complaints Unit Employee Assistance Program Flexible work options Forms and Templates Probation Staff Giving Staff Online Travel Bookings UWS Celebrates 25 years Enterprise Agreements Work Health and Safety Working with children"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Career Development"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Development Program Academic Promotion Career Development Opportunities Compass Program Learning and Teaching Vice-Chancellor's Excellence Awards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Salary and Benefits "
+            },
+            {
+              "change_type": "equal",
+              "text": "Casual Salary Deadlines Education Support Allowance and study leave Forms and templates Salary rates and schedules Salary Sacrifice Staff Benefits Staff Social Club Superannuation Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Manager/Supervisor Toolkit"
+            },
+            {
+              "change_type": "equal",
+              "text": " Courses and training programs Employee Assistance Program (EAP) eRecruit Hiring casual employees Induction and orientation Information and checklists for when staff leave Mediation services Recruiting staff at Western Work Health and Safety Policies Thank You e-cards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "New Staff "
+            },
+            {
+              "change_type": "equal",
+              "text": "Forms and Templates IT Checklist WesternAccount Office of Human Resources Induction and orientation Parking Staff Helpline Staff Social Club Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Future Staff"
+            },
+            {
+              "change_type": "equal",
+              "text": " About Western Sydney University Aboriginal and Torres Strait Islander Employment and Engagement Campuses University Employment Contact Employment Current Vacancies Equity and Diversity Institutes and Centres International Applicants Schools Staff Benefits"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Teaching"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Calendar Careers Casual Room Bookings Handbook Indigenous Education Learning Futures Submit Publication HERDC Timetable "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research "
+            },
+            {
+              "change_type": "equal",
+              "text": "Confluence Nexus Institutes and Centres Research Development Support Research Funding Research Services Schools"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Casual Room Bookings Catering Disability Service (staff login required) Division of Infrastructure and Commercial Financials Monthly Reporting (staff login required) IT Service Desk Library Mental Health Support Parking Print Services Records and Archives Management Services Safety and Security Service Unlimited Student Communications Student Administration Travel Video Production Web Services Unit Health and Safety Health and Safety Safety management system Working from Home WHS consultation Risk management Committee Minutes Emergency management Health and safety topics Contractor management Report an Incident (including injury) or Hazard Workplace Reasonable Adjustment Health and Wellbeing About the Safety Team Contact us WHS&W Information about COVID-19 Health and Safety The Work Health Safety and Wellbeing (WHS&W) Unit aims to provide quality health safety and wellbeing services and programs for Western Sydney University. Report an Incident Health and Wellbeing Health & Safety Topics Remote Working Arrangements Request Employee Assistance Program Request an Ergonomic Assessment First Aid"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Mobile options: Return to standard site Back to Top International Students Launch your career at UWS"
+            },
+            {
+              "change_type": "equal",
+              "text": " Home Staff Indigenous Giving Courses University Life New to Uni About Careers Our Campuses Business and Community Schools Institutes Sustainability Study with Us Courses Undergraduate Postgraduate HDR Research Pathways Student Life Scholarships Events Why Western The Academy Western Sydney University Online Students Misconduct Rule Study with Integrity New to Uni Enrolment Fees Forms Exams Results Student Completions Student Support Services and Facilities Staff Working with us Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services Research Events Researchers Future Students Current Students Community and Industry CRCs Institutes Centres Groups Alumni Alumni Awards Alumni Spotlight Alumni Benefits Alumni Affinity Groups Alumni Publications Alumni Giving GradLife Social Links Youtube Twitter Facebook Print this page Contact Us Emergency Help Right to Information Copyright Privacy Disclaimer Complaints Unit Accessibility Website Feedback Compliance Program Admissions Transparency Western Sydney University Copyright \u00a9 2004-2025 ABN 53 014 069 881 CRICOS Provider No: 00917K TEQSA Provider ID: PRV12061 (Australian University) Locked Bag 1797 Penrith NSW 2751 Tel: 1300 668 370 Page updated Thu May 08 2025"
+            }
+          ],
+          "similarity_score": 0.9929124091538822
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-03-498364ef14c935f9c96f5b77bf59e881a86cc8f7",
+          "xpath": "/html[1]/body[1]/div[5]/div[4]/div[3]",
+          "differences": [
+            {
+              "change_type": "deletion",
+              "text": "Skip to content If you have problems accessing content on the Western Sydney University website, please contact the Western Sydney University Student Services Hub on 1300 668 370. Show more links Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs for Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Library vUWS Staff Directory Contact Ask Western Sign into... Staff Staff Directory Staff Online Staff Email Password Management WesternNow Staff Portal IT Website IT Portal ResearchMaster Citrix Access Student Management System eRecruit Exam Timetable Class Registration Oracle Financials Casual Room Bookings Staff Profile Editor Vehicle Bookings Form Centre TEMS Yammer WSU SharePoint Portal Learning Guide Management System (LGMS) Zoom Basware Students My Library vUWS MyWestern Student Email Password Management My Student Records (MySR) IT Portal ResearchMaster WesternLife CareerHub WesternNow Student Portal Class Registration My Exam Timetable Student Forms (eForms) Accept My Offer Payments AskWestern FACEBOOK youtube Twiiter instagram linkedin Print this page smaller text A smaller text A smaller text A "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Site"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Skip"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Courses"
+            },
+            {
+              "change_type": "insertion",
+              "text": "to"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "If"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "you"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "have"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "problems"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "accessing"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "on"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "1"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Menu"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Study"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "with"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Us"
+            },
+            {
+              "change_type": "insertion",
+              "text": "website, please"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research"
+            },
+            {
+              "change_type": "insertion",
+              "text": "contact"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Students"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "International"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Alumni"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Student"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "2"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Services Hub on 1300 668 370. Show more"
+            },
+            {
+              "change_type": "equal",
+              "text": " links "
+            },
+            {
+              "change_type": "insertion",
+              "text": "Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs "
+            },
+            {
+              "change_type": "equal",
+              "text": "for"
+            },
+            {
+              "change_type": "deletion",
+              "text": ": "
+            },
+            {
+              "change_type": "insertion",
+              "text": " Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Search Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Working with us"
+            },
+            {
+              "change_type": "insertion",
+              "text": " Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Aboriginal and Torres Strait Islander Employment and Engagement Applying for leave Complaints Unit Employee Assistance Program Flexible work options Forms and Templates Probation Staff Giving Staff Online Travel Bookings UWS Celebrates 25 years Enterprise Agreements Work Health and Safety Working with children"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Career Development"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Development Program Academic Promotion Career Development Opportunities Compass Program Learning and Teaching Vice-Chancellor's Excellence Awards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Salary and Benefits "
+            },
+            {
+              "change_type": "equal",
+              "text": "Casual Salary Deadlines Education Support Allowance and study leave Forms and templates Salary rates and schedules Salary Sacrifice Staff Benefits Staff Social Club Superannuation Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Manager/Supervisor Toolkit"
+            },
+            {
+              "change_type": "equal",
+              "text": " Courses and training programs Employee Assistance Program (EAP) eRecruit Hiring casual employees Induction and orientation Information and checklists for when staff leave Mediation services Recruiting staff at Western Work Health and Safety Policies Thank You e-cards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "New Staff "
+            },
+            {
+              "change_type": "equal",
+              "text": "Forms and Templates IT Checklist WesternAccount Office of Human Resources Induction and orientation Parking Staff Helpline Staff Social Club Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Future Staff"
+            },
+            {
+              "change_type": "equal",
+              "text": " About Western Sydney University Aboriginal and Torres Strait Islander Employment and Engagement Campuses University Employment Contact Employment Current Vacancies Equity and Diversity Institutes and Centres International Applicants Schools Staff Benefits"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Teaching"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Calendar Careers Casual Room Bookings Handbook Indigenous Education Learning Futures Submit Publication HERDC Timetable "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research "
+            },
+            {
+              "change_type": "equal",
+              "text": "Confluence Nexus Institutes and Centres Research Development Support Research Funding Research Services Schools"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Casual Room Bookings Catering Disability Service (staff login required) Division of Infrastructure and Commercial Financials Monthly Reporting (staff login required) IT Service Desk Library Mental Health Support Parking Print Services Records and Archives Management Services Safety and Security Service Unlimited Student Communications Student Administration Travel Video Production Web Services Unit Health and Safety Health and Safety Safety management system Working from Home WHS consultation Risk management Committee Minutes Emergency management Health and safety topics Contractor management Report an Incident (including injury) or Hazard Workplace Reasonable Adjustment Health and Wellbeing About the Safety Team Contact us WHS&W Information about COVID-19 Health and Safety The Work Health Safety and Wellbeing (WHS&W) Unit aims to provide quality health safety and wellbeing services and programs for Western Sydney University. Report an Incident Health and Wellbeing Health & Safety Topics Remote Working Arrangements Request Employee Assistance Program Request an Ergonomic Assessment First Aid"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Mobile options: Return to standard site Back to Top International Students Launch your career at UWS"
+            },
+            {
+              "change_type": "equal",
+              "text": " Home Staff Indigenous Giving Courses University Life New to Uni About Careers Our Campuses Business and Community Schools Institutes Sustainability Study with Us Courses Undergraduate Postgraduate HDR Research Pathways Student Life Scholarships Events Why Western The Academy Western Sydney University Online Students Misconduct Rule Study with Integrity New to Uni Enrolment Fees Forms Exams Results Student Completions Student Support Services and Facilities Staff Working with us Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services Research Events Researchers Future Students Current Students Community and Industry CRCs Institutes Centres Groups Alumni Alumni Awards Alumni Spotlight Alumni Benefits Alumni Affinity Groups Alumni Publications Alumni Giving GradLife Social Links Youtube Twitter Facebook Print this page Contact Us Emergency Help Right to Information Copyright Privacy Disclaimer Complaints Unit Accessibility Website Feedback Compliance Program Admissions Transparency Western Sydney University Copyright \u00a9 2004-2025 ABN 53 014 069 881 CRICOS Provider No: 00917K TEQSA Provider ID: PRV12061 (Australian University) Locked Bag 1797 Penrith NSW 2751 Tel: 1300 668 370 Page updated Thu May 08 2025"
+            }
+          ],
+          "similarity_score": 0.9929124091538822
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://www.westernsydney.edu.au/whs",
+          "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+          "uuid": "7ee425b2-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]",
+          "differences": [
+            {
+              "change_type": "deletion",
+              "text": "Skip to content If you have problems accessing content on the Western Sydney University website, please contact the Western Sydney University Student Services Hub on 1300 668 370. Show more links Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs for Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Library vUWS Staff Directory Contact Ask Western Sign into... Staff Staff Directory Staff Online Staff Email Password Management WesternNow Staff Portal IT Website IT Portal ResearchMaster Citrix Access Student Management System eRecruit Exam Timetable Class Registration Oracle Financials Casual Room Bookings Staff Profile Editor Vehicle Bookings Form Centre TEMS Yammer WSU SharePoint Portal Learning Guide Management System (LGMS) Zoom Basware Students My Library vUWS MyWestern Student Email Password Management My Student Records (MySR) IT Portal ResearchMaster WesternLife CareerHub WesternNow Student Portal Class Registration My Exam Timetable Student Forms (eForms) Accept My Offer Payments AskWestern FACEBOOK youtube Twiiter instagram linkedin Print this page smaller text A smaller text A smaller text A "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Site"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Skip"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Courses"
+            },
+            {
+              "change_type": "insertion",
+              "text": "to"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "If"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "you"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Search"
+            },
+            {
+              "change_type": "insertion",
+              "text": "have"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "query"
+            },
+            {
+              "change_type": "insertion",
+              "text": "problems"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Submit"
+            },
+            {
+              "change_type": "insertion",
+              "text": "accessing"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "content"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "on"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "1"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Menu"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Study"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "with"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Us"
+            },
+            {
+              "change_type": "insertion",
+              "text": "website, please"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research"
+            },
+            {
+              "change_type": "insertion",
+              "text": "contact"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Students"
+            },
+            {
+              "change_type": "insertion",
+              "text": "the"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "International"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Western"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Alumni"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Sydney"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Open"
+            },
+            {
+              "change_type": "insertion",
+              "text": "University"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Level"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Student"
+            },
+            {
+              "change_type": "equal",
+              "text": " "
+            },
+            {
+              "change_type": "deletion",
+              "text": "2"
+            },
+            {
+              "change_type": "insertion",
+              "text": "Services Hub on 1300 668 370. Show more"
+            },
+            {
+              "change_type": "equal",
+              "text": " links "
+            },
+            {
+              "change_type": "insertion",
+              "text": "Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs "
+            },
+            {
+              "change_type": "equal",
+              "text": "for"
+            },
+            {
+              "change_type": "deletion",
+              "text": ": "
+            },
+            {
+              "change_type": "insertion",
+              "text": " Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Search Submit "
+            },
+            {
+              "change_type": "equal",
+              "text": "Working with us"
+            },
+            {
+              "change_type": "insertion",
+              "text": " Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Aboriginal and Torres Strait Islander Employment and Engagement Applying for leave Complaints Unit Employee Assistance Program Flexible work options Forms and Templates Probation Staff Giving Staff Online Travel Bookings UWS Celebrates 25 years Enterprise Agreements Work Health and Safety Working with children"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Career Development"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Development Program Academic Promotion Career Development Opportunities Compass Program Learning and Teaching Vice-Chancellor's Excellence Awards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Salary and Benefits "
+            },
+            {
+              "change_type": "equal",
+              "text": "Casual Salary Deadlines Education Support Allowance and study leave Forms and templates Salary rates and schedules Salary Sacrifice Staff Benefits Staff Social Club Superannuation Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Manager/Supervisor Toolkit"
+            },
+            {
+              "change_type": "equal",
+              "text": " Courses and training programs Employee Assistance Program (EAP) eRecruit Hiring casual employees Induction and orientation Information and checklists for when staff leave Mediation services Recruiting staff at Western Work Health and Safety Policies Thank You e-cards "
+            },
+            {
+              "change_type": "deletion",
+              "text": "New Staff "
+            },
+            {
+              "change_type": "equal",
+              "text": "Forms and Templates IT Checklist WesternAccount Office of Human Resources Induction and orientation Parking Staff Helpline Staff Social Club Enterprise Agreements"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Future Staff"
+            },
+            {
+              "change_type": "equal",
+              "text": " About Western Sydney University Aboriginal and Torres Strait Islander Employment and Engagement Campuses University Employment Contact Employment Current Vacancies Equity and Diversity Institutes and Centres International Applicants Schools Staff Benefits"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Teaching"
+            },
+            {
+              "change_type": "equal",
+              "text": " Academic Calendar Careers Casual Room Bookings Handbook Indigenous Education Learning Futures Submit Publication HERDC Timetable "
+            },
+            {
+              "change_type": "deletion",
+              "text": "Research "
+            },
+            {
+              "change_type": "equal",
+              "text": "Confluence Nexus Institutes and Centres Research Development Support Research Funding Research Services Schools"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Staff Services"
+            },
+            {
+              "change_type": "equal",
+              "text": " Casual Room Bookings Catering Disability Service (staff login required) Division of Infrastructure and Commercial Financials Monthly Reporting (staff login required) IT Service Desk Library Mental Health Support Parking Print Services Records and Archives Management Services Safety and Security Service Unlimited Student Communications Student Administration Travel Video Production Web Services Unit Health and Safety Health and Safety Safety management system Working from Home WHS consultation Risk management Committee Minutes Emergency management Health and safety topics Contractor management Report an Incident (including injury) or Hazard Workplace Reasonable Adjustment Health and Wellbeing About the Safety Team Contact us WHS&W Information about COVID-19 Health and Safety The Work Health Safety and Wellbeing (WHS&W) Unit aims to provide quality health safety and wellbeing services and programs for Western Sydney University. Report an Incident Health and Wellbeing Health & Safety Topics Remote Working Arrangements Request Employee Assistance Program Request an Ergonomic Assessment First Aid"
+            },
+            {
+              "change_type": "deletion",
+              "text": " Mobile options: Return to standard site Back to Top International Students Launch your career at UWS"
+            },
+            {
+              "change_type": "equal",
+              "text": " Home Staff Indigenous Giving Courses University Life New to Uni About Careers Our Campuses Business and Community Schools Institutes Sustainability Study with Us Courses Undergraduate Postgraduate HDR Research Pathways Student Life Scholarships Events Why Western The Academy Western Sydney University Online Students Misconduct Rule Study with Integrity New to Uni Enrolment Fees Forms Exams Results Student Completions Student Support Services and Facilities Staff Working with us Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services Research Events Researchers Future Students Current Students Community and Industry CRCs Institutes Centres Groups Alumni Alumni Awards Alumni Spotlight Alumni Benefits Alumni Affinity Groups Alumni Publications Alumni Giving GradLife Social Links Youtube Twitter Facebook Print this page Contact Us Emergency Help Right to Information Copyright Privacy Disclaimer Complaints Unit Accessibility Website Feedback Compliance Program Admissions Transparency Western Sydney University Copyright \u00a9 2004-2025 ABN 53 014 069 881 CRICOS Provider No: 00917K TEQSA Provider ID: PRV12061 (Australian University) Locked Bag 1797 Penrith NSW 2751 Tel: 1300 668 370 Page updated Thu May 08 2025"
+            }
+          ],
+          "similarity_score": 0.9929124091538822
+        },
+        {
+          "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+          "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+          "uuid": "e9cd43be-04-9e5264a09ab84dd854480c9bd403ce679794d665",
+          "xpath": "/html[1]/body[1]/div[7]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.westernsydney.edu.au/whs",
+      "urlHash": "7ee425b2c298943b8ae4903a0b3b29143ceaeba2",
+      "uuid": "7ee425b2-02-0cce62d21f9d401724a667b4bc3ca4238efe5f94",
+      "xpath": "/html[1]/body[1]/div[5]/div[4]/div[1]",
+      "differences": [
+        {
+          "change_type": "deletion",
+          "text": "Skip to content If you have problems accessing content on the Western Sydney University website, please contact the Western Sydney University Student Services Hub on 1300 668 370. Show more links Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs for Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Submit "
+        },
+        {
+          "change_type": "equal",
+          "text": "Library vUWS Staff Directory Contact Ask Western Sign into... Staff Staff Directory Staff Online Staff Email Password Management WesternNow Staff Portal IT Website IT Portal ResearchMaster Citrix Access Student Management System eRecruit Exam Timetable Class Registration Oracle Financials Casual Room Bookings Staff Profile Editor Vehicle Bookings Form Centre TEMS Yammer WSU SharePoint Portal Learning Guide Management System (LGMS) Zoom Basware Students My Library vUWS MyWestern Student Email Password Management My Student Records (MySR) IT Portal ResearchMaster WesternLife CareerHub WesternNow Student Portal Class Registration My Exam Timetable Student Forms (eForms) Accept My Offer Payments AskWestern FACEBOOK youtube Twiiter instagram linkedin Print this page smaller text A smaller text A smaller text A "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Site"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Skip"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Courses"
+        },
+        {
+          "change_type": "insertion",
+          "text": "to"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Search"
+        },
+        {
+          "change_type": "insertion",
+          "text": "content"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "query"
+        },
+        {
+          "change_type": "insertion",
+          "text": "If"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Submit"
+        },
+        {
+          "change_type": "insertion",
+          "text": "you"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Search"
+        },
+        {
+          "change_type": "insertion",
+          "text": "have"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "query"
+        },
+        {
+          "change_type": "insertion",
+          "text": "problems"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Submit"
+        },
+        {
+          "change_type": "insertion",
+          "text": "accessing"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Open"
+        },
+        {
+          "change_type": "insertion",
+          "text": "content"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Level"
+        },
+        {
+          "change_type": "insertion",
+          "text": "on"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "1"
+        },
+        {
+          "change_type": "insertion",
+          "text": "the"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Menu"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Western"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Study"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Sydney"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "with"
+        },
+        {
+          "change_type": "insertion",
+          "text": "University"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Us"
+        },
+        {
+          "change_type": "insertion",
+          "text": "website, please"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Research"
+        },
+        {
+          "change_type": "insertion",
+          "text": "contact"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Students"
+        },
+        {
+          "change_type": "insertion",
+          "text": "the"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "International"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Western"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Alumni"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Sydney"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Open"
+        },
+        {
+          "change_type": "insertion",
+          "text": "University"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Level"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Student"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "2"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Services Hub on 1300 668 370. Show more"
+        },
+        {
+          "change_type": "equal",
+          "text": " links "
+        },
+        {
+          "change_type": "insertion",
+          "text": "Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs "
+        },
+        {
+          "change_type": "equal",
+          "text": "for"
+        },
+        {
+          "change_type": "deletion",
+          "text": ": "
+        },
+        {
+          "change_type": "insertion",
+          "text": " Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Search Submit "
+        },
+        {
+          "change_type": "equal",
+          "text": "Working with us"
+        },
+        {
+          "change_type": "insertion",
+          "text": " Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services"
+        },
+        {
+          "change_type": "equal",
+          "text": " Aboriginal and Torres Strait Islander Employment and Engagement Applying for leave Complaints Unit Employee Assistance Program Flexible work options Forms and Templates Probation Staff Giving Staff Online Travel Bookings UWS Celebrates 25 years Enterprise Agreements Work Health and Safety Working with children"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Career Development"
+        },
+        {
+          "change_type": "equal",
+          "text": " Academic Development Program Academic Promotion Career Development Opportunities Compass Program Learning and Teaching Vice-Chancellor's Excellence Awards "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Salary and Benefits "
+        },
+        {
+          "change_type": "equal",
+          "text": "Casual Salary Deadlines Education Support Allowance and study leave Forms and templates Salary rates and schedules Salary Sacrifice Staff Benefits Staff Social Club Superannuation Enterprise Agreements"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Manager/Supervisor Toolkit"
+        },
+        {
+          "change_type": "equal",
+          "text": " Courses and training programs Employee Assistance Program (EAP) eRecruit Hiring casual employees Induction and orientation Information and checklists for when staff leave Mediation services Recruiting staff at Western Work Health and Safety Policies Thank You e-cards "
+        },
+        {
+          "change_type": "deletion",
+          "text": "New Staff "
+        },
+        {
+          "change_type": "equal",
+          "text": "Forms and Templates IT Checklist WesternAccount Office of Human Resources Induction and orientation Parking Staff Helpline Staff Social Club Enterprise Agreements"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Future Staff"
+        },
+        {
+          "change_type": "equal",
+          "text": " About Western Sydney University Aboriginal and Torres Strait Islander Employment and Engagement Campuses University Employment Contact Employment Current Vacancies Equity and Diversity Institutes and Centres International Applicants Schools Staff Benefits"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Teaching"
+        },
+        {
+          "change_type": "equal",
+          "text": " Academic Calendar Careers Casual Room Bookings Handbook Indigenous Education Learning Futures Submit Publication HERDC Timetable "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Research "
+        },
+        {
+          "change_type": "equal",
+          "text": "Confluence Nexus Institutes and Centres Research Development Support Research Funding Research Services Schools"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Staff Services"
+        },
+        {
+          "change_type": "equal",
+          "text": " Casual Room Bookings Catering Disability Service (staff login required) Division of Infrastructure and Commercial Financials Monthly Reporting (staff login required) IT Service Desk Library Mental Health Support Parking Print Services Records and Archives Management Services Safety and Security Service Unlimited Student Communications Student Administration Travel Video Production Web Services Unit Health and Safety Health and Safety Safety management system Working from Home WHS consultation Risk management Committee Minutes Emergency management Health and safety topics Contractor management Report an Incident (including injury) or Hazard Workplace Reasonable Adjustment Health and Wellbeing About the Safety Team Contact us WHS&W Information about COVID-19 Health and Safety The Work Health Safety and Wellbeing (WHS&W) Unit aims to provide quality health safety and wellbeing services and programs for Western Sydney University. Report an Incident Health and Wellbeing Health & Safety Topics Remote Working Arrangements Request Employee Assistance Program Request an Ergonomic Assessment First Aid"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Mobile options: Return to standard site Back to Top International Students Launch your career at UWS"
+        },
+        {
+          "change_type": "equal",
+          "text": " Home Staff Indigenous Giving Courses University Life New to Uni About Careers Our Campuses Business and Community Schools Institutes Sustainability Study with Us Courses Undergraduate Postgraduate HDR Research Pathways Student Life Scholarships Events Why Western The Academy Western Sydney University Online Students Misconduct Rule Study with Integrity New to Uni Enrolment Fees Forms Exams Results Student Completions Student Support Services and Facilities Staff Working with us Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services Research Events Researchers Future Students Current Students Community and Industry CRCs Institutes Centres Groups Alumni Alumni Awards Alumni Spotlight Alumni Benefits Alumni Affinity Groups Alumni Publications Alumni Giving GradLife Social Links Youtube Twitter Facebook Print this page Contact Us Emergency Help Right to Information Copyright Privacy Disclaimer Complaints Unit Accessibility Website Feedback Compliance Program Admissions Transparency Western Sydney University Copyright \u00a9 2004-2025 ABN 53 014 069 881 CRICOS Provider No: 00917K TEQSA Provider ID: PRV12061 (Australian University) Locked Bag 1797 Penrith NSW 2751 Tel: 1300 668 370 Page updated Thu May 08 2025"
+        }
+      ],
+      "similarity_score": 0.9929124091538822
+    },
+    {
+      "url": "https://www.westernsydney.edu.au/newscentre/news_centre",
+      "urlHash": "e9cd43be199ad42b036a72043010991b72acbd07",
+      "uuid": "e9cd43be-02-0cce62d21f9d401724a667b4bc3ca4238efe5f94",
+      "xpath": "/html[1]/body[1]/div[5]/div[4]/div[1]"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.westernsydney.edu.au/whs",
+      "differences": [
+        {
+          "change_type": "deletion",
+          "text": "Skip to content If you have problems accessing content on the Western Sydney University website, please contact the Western Sydney University Student Services Hub on 1300 668 370. Show more links Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs for Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Submit "
+        },
+        {
+          "change_type": "equal",
+          "text": "Library vUWS Staff Directory Contact Ask Western Sign into... Staff Staff Directory Staff Online Staff Email Password Management WesternNow Staff Portal IT Website IT Portal ResearchMaster Citrix Access Student Management System eRecruit Exam Timetable Class Registration Oracle Financials Casual Room Bookings Staff Profile Editor Vehicle Bookings Form Centre TEMS Yammer WSU SharePoint Portal Learning Guide Management System (LGMS) Zoom Basware Students My Library vUWS MyWestern Student Email Password Management My Student Records (MySR) IT Portal ResearchMaster WesternLife CareerHub WesternNow Student Portal Class Registration My Exam Timetable Student Forms (eForms) Accept My Offer Payments AskWestern FACEBOOK youtube Twiiter instagram linkedin Print this page smaller text A smaller text A smaller text A "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Site"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Skip"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Courses"
+        },
+        {
+          "change_type": "insertion",
+          "text": "to"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Search"
+        },
+        {
+          "change_type": "insertion",
+          "text": "content"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "query"
+        },
+        {
+          "change_type": "insertion",
+          "text": "If"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Submit"
+        },
+        {
+          "change_type": "insertion",
+          "text": "you"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Search"
+        },
+        {
+          "change_type": "insertion",
+          "text": "have"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "query"
+        },
+        {
+          "change_type": "insertion",
+          "text": "problems"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Submit"
+        },
+        {
+          "change_type": "insertion",
+          "text": "accessing"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Open"
+        },
+        {
+          "change_type": "insertion",
+          "text": "content"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Level"
+        },
+        {
+          "change_type": "insertion",
+          "text": "on"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "1"
+        },
+        {
+          "change_type": "insertion",
+          "text": "the"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Menu"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Western"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Study"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Sydney"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "with"
+        },
+        {
+          "change_type": "insertion",
+          "text": "University"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Us"
+        },
+        {
+          "change_type": "insertion",
+          "text": "website, please"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Research"
+        },
+        {
+          "change_type": "insertion",
+          "text": "contact"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Students"
+        },
+        {
+          "change_type": "insertion",
+          "text": "the"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "International"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Western"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Alumni"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Sydney"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Open"
+        },
+        {
+          "change_type": "insertion",
+          "text": "University"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Level"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Student"
+        },
+        {
+          "change_type": "equal",
+          "text": " "
+        },
+        {
+          "change_type": "deletion",
+          "text": "2"
+        },
+        {
+          "change_type": "insertion",
+          "text": "Services Hub on 1300 668 370. Show more"
+        },
+        {
+          "change_type": "equal",
+          "text": " links "
+        },
+        {
+          "change_type": "insertion",
+          "text": "Governance Vice-Chancellor Leadership and Governance Policies Education Quality Sustainability People Staff Directory Staff Profiles Staff Online Employment Office of Human Resources Students Important Dates Accept and Enrol Payments Student Forms Jobs "
+        },
+        {
+          "change_type": "equal",
+          "text": "for"
+        },
+        {
+          "change_type": "deletion",
+          "text": ": "
+        },
+        {
+          "change_type": "insertion",
+          "text": " Students Study Future Students Handbook Scholarships Class Registration Online Courses Services Password Management Western Wifi - Wireless Accommodation Badanami Partners The College Whitlam Institute Launch Pad Show more links QuickLinks Search query Search Submit "
+        },
+        {
+          "change_type": "equal",
+          "text": "Working with us"
+        },
+        {
+          "change_type": "insertion",
+          "text": " Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services"
+        },
+        {
+          "change_type": "equal",
+          "text": " Aboriginal and Torres Strait Islander Employment and Engagement Applying for leave Complaints Unit Employee Assistance Program Flexible work options Forms and Templates Probation Staff Giving Staff Online Travel Bookings UWS Celebrates 25 years Enterprise Agreements Work Health and Safety Working with children"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Career Development"
+        },
+        {
+          "change_type": "equal",
+          "text": " Academic Development Program Academic Promotion Career Development Opportunities Compass Program Learning and Teaching Vice-Chancellor's Excellence Awards "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Salary and Benefits "
+        },
+        {
+          "change_type": "equal",
+          "text": "Casual Salary Deadlines Education Support Allowance and study leave Forms and templates Salary rates and schedules Salary Sacrifice Staff Benefits Staff Social Club Superannuation Enterprise Agreements"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Manager/Supervisor Toolkit"
+        },
+        {
+          "change_type": "equal",
+          "text": " Courses and training programs Employee Assistance Program (EAP) eRecruit Hiring casual employees Induction and orientation Information and checklists for when staff leave Mediation services Recruiting staff at Western Work Health and Safety Policies Thank You e-cards "
+        },
+        {
+          "change_type": "deletion",
+          "text": "New Staff "
+        },
+        {
+          "change_type": "equal",
+          "text": "Forms and Templates IT Checklist WesternAccount Office of Human Resources Induction and orientation Parking Staff Helpline Staff Social Club Enterprise Agreements"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Future Staff"
+        },
+        {
+          "change_type": "equal",
+          "text": " About Western Sydney University Aboriginal and Torres Strait Islander Employment and Engagement Campuses University Employment Contact Employment Current Vacancies Equity and Diversity Institutes and Centres International Applicants Schools Staff Benefits"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Teaching"
+        },
+        {
+          "change_type": "equal",
+          "text": " Academic Calendar Careers Casual Room Bookings Handbook Indigenous Education Learning Futures Submit Publication HERDC Timetable "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Research "
+        },
+        {
+          "change_type": "equal",
+          "text": "Confluence Nexus Institutes and Centres Research Development Support Research Funding Research Services Schools"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Staff Services"
+        },
+        {
+          "change_type": "equal",
+          "text": " Casual Room Bookings Catering Disability Service (staff login required) Division of Infrastructure and Commercial Financials Monthly Reporting (staff login required) IT Service Desk Library Mental Health Support Parking Print Services Records and Archives Management Services Safety and Security Service Unlimited Student Communications Student Administration Travel Video Production Web Services Unit Health and Safety Health and Safety Safety management system Working from Home WHS consultation Risk management Committee Minutes Emergency management Health and safety topics Contractor management Report an Incident (including injury) or Hazard Workplace Reasonable Adjustment Health and Wellbeing About the Safety Team Contact us WHS&W Information about COVID-19 Health and Safety The Work Health Safety and Wellbeing (WHS&W) Unit aims to provide quality health safety and wellbeing services and programs for Western Sydney University. Report an Incident Health and Wellbeing Health & Safety Topics Remote Working Arrangements Request Employee Assistance Program Request an Ergonomic Assessment First Aid"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Mobile options: Return to standard site Back to Top International Students Launch your career at UWS"
+        },
+        {
+          "change_type": "equal",
+          "text": " Home Staff Indigenous Giving Courses University Life New to Uni About Careers Our Campuses Business and Community Schools Institutes Sustainability Study with Us Courses Undergraduate Postgraduate HDR Research Pathways Student Life Scholarships Events Why Western The Academy Western Sydney University Online Students Misconduct Rule Study with Integrity New to Uni Enrolment Fees Forms Exams Results Student Completions Student Support Services and Facilities Staff Working with us Career Development Salary and Benefits Manager/Supervisor Toolkit New Staff Future Staff Teaching Research Staff Services Research Events Researchers Future Students Current Students Community and Industry CRCs Institutes Centres Groups Alumni Alumni Awards Alumni Spotlight Alumni Benefits Alumni Affinity Groups Alumni Publications Alumni Giving GradLife Social Links Youtube Twitter Facebook Print this page Contact Us Emergency Help Right to Information Copyright Privacy Disclaimer Complaints Unit Accessibility Website Feedback Compliance Program Admissions Transparency Western Sydney University Copyright \u00a9 2004-2025 ABN 53 014 069 881 CRICOS Provider No: 00917K TEQSA Provider ID: PRV12061 (Australian University) Locked Bag 1797 Penrith NSW 2751 Tel: 1300 668 370 Page updated Thu May 08 2025"
+        }
+      ],
+      "similarity_score": 0.9929124091538822
+    }
+  ]
+}
