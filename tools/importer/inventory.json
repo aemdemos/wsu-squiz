@@ -42,8 +42,11 @@
       ]
     },
     {
-      "name": "unknown",
+      "name": "Tabs",
       "cluster": 2,
+      "source": "Tabs",
+      "target": "Tabs",
+      "key": "tabs2",
       "instances": [
         {
           "url": "https://www.westernsydney.edu.au/human_resources/ohr",
