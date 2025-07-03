@@ -2,10 +2,10 @@
   "originUrl": "https://www.westernsydney.edu.au",
   "urls": [
     {
-      "url": "https://www.westernsydney.edu.au/human_resources/ohr",
+      "url": "https://www.westernsydney.edu.au/excellence_awards",
       "source": "MANUAL",
-      "targetPath": "/human-resources/ohr",
-      "id": "9d6b709823cfec12ad60ddf82ba645b0f60700ac"
+      "targetPath": "/excellence-awards",
+      "id": "902d6e2a3baeef5ec8a38013bb8dcfc65c819e8f"
     }
   ],
   "crawlOptions": {
