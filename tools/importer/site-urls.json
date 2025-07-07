@@ -1,11 +1,11 @@
 {
-  "originUrl": "https://www.westernsydney.edu.au",
+  "originUrl": "https://main--hashsite--zehash-developer.aem.live",
   "urls": [
     {
-      "url": "https://www.westernsydney.edu.au/human_resources/ohr",
+      "url": "https://main--hashsite--zehash-developer.aem.live",
       "source": "MANUAL",
-      "targetPath": "/human-resources/ohr",
-      "id": "9d6b709823cfec12ad60ddf82ba645b0f60700ac"
+      "targetPath": "/",
+      "id": "6428573e10830878ad78e1624c0fc0ebd3c3970e"
     }
   ],
   "crawlOptions": {
